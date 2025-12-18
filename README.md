@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ali Kasrawy</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali4hassan9ali2022&label=Profile%20views&color=0e75b6&style=flat" alt="ali4hassan9ali2022" /> </p>
 
-- 🌱 I’m currently learning **Flutter Developer**
-
+- 💼 Flutter Developer with 1 year of experience
+- 📱 I have been studying Flutter for 2 years
+- 🏢 Currently working at Al-Drees Company (Saudi Arabia)
+- 📅 Started working there on 15/09/2025
+- 🚀 Worked as a Freelancer for 4 months
+- 🕌 Built a full Flutter project independently called Tasabe7
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **kasrawyali47@gmail.com**
